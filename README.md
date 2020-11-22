@@ -1,4 +1,4 @@
-class test
+class testprj
 {  static void main(String[ ] args)
      { // recherche séquentielle dans un tableau
         int [ ] table= {12,-5,7,8,-6,6,4,78,2};
@@ -13,5 +13,8 @@ class test
         System.out.println("valeur : "+val+" pas trouvée.");
       else
         System.out.println("valeur : "+val+" trouvée au rang :"+ rang);
+   
+
    }
+
 }
