@@ -1,4 +1,4 @@
-class testprj
+class test
 {  static void main(String[ ] args)
      { // recherche séquentielle dans un tableau
         int [ ] table= {12,-5,7,8,-6,6,4,78,2};
@@ -18,3 +18,4 @@ class testprj
    }
 
 }
+
